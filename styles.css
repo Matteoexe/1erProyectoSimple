@@ -1,0 +1,112 @@
+.argprog img {
+    margin: 0;
+    font-family: system-ui, sans-serif;
+    color: black;
+    background-color: teal;
+    padding: 5px;
+    border-radius: 20px;
+    width: 50px;
+    height: auto;
+  }
+  
+  .argprog {
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: teal;
+  }
+  
+  .banner {
+    height: auto;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+  
+  .pfp {
+    width: 10%;
+    height: auto;
+    position: relative;
+    margin-top: 55%;
+    background-color: white;
+    border-radius: 100%;
+  }
+  
+  .perfil {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    font-size: 130%;
+  }
+  
+  .infopers {
+    margin: 2%;
+  }
+  
+  div.perfil div {
+    text-align: center;
+  }
+  
+  .login {
+    position: absolute;
+    right: 1%;
+  }
+  
+  .experiencia {
+    margin: 10px;
+    border: 1px lightskyblue solid;
+    padding: 5px;
+  }
+  
+  .tabEmpresa {
+    background-color: lightcyan;
+    padding: 2%;
+    border-radius: 20px;
+  }
+  
+  .educacion {
+    margin: 10px;
+    border: 1px lightgreen solid;
+    padding: 5px;
+  }
+  
+  .tabInst {
+    background-color: rgb(204, 241, 204);
+    padding: 2%;
+    border-radius: 20px;
+  }
+  
+  .skills {
+    margin: 10px;
+    border: 1px lightseagreen solid;
+    padding: 5px;
+  }
+  
+  .skillTab {
+    background-color: rgba(32, 178, 171, 0.692);
+    width: 75px;
+    height: auto;
+    padding: 2%;
+    border-radius: 100%;
+    text-align: center;
+  }
+  
+  .proyectos {
+    margin: 10px;
+    border: 1px rgb(213, 255, 28) solid;
+    padding: 5px;
+  }
+  
+  .tabProy {
+    background-color: rgba(213, 255, 28, 0.548);
+    padding: 2%;
+    border-radius: 20px;
+  }
+  
+  .linkProy {
+    background-color: rgb(200, 255, 0);
+    margin: 2px;
+    padding: 2px;
+    border-radius: 8px;
+  }
+  
